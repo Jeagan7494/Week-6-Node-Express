@@ -1,1 +1,0 @@
-var data = require('./exports.js')
